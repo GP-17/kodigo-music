@@ -1,9 +1,9 @@
 import React from "react"
 import { Routes, Route } from "react-router-dom"
-import Navbar from "./components/Navbar"
-import Home from "./pages/Home"
-import Search from "./pages/Search"
-import Contact from "./pages/Contact"
+import Navbar from "./Components/Navbar.jsx"
+import Home from "./Pages/Home.jsx"
+import Search from "./Pages/Search.jsx"
+import Contact from "./Pages/Contact.jsx"
 
 export default function App() {
   return (
